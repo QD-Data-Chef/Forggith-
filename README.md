@@ -59,7 +59,7 @@ An interactive dashboard that consists of five pages for the metrics and KPIs ga
 - Overview 2
 - Mangers 
 - products
-You can interact with the project [here](https://app.powerbi.com/links/Ou5iG5ibtw?ctid=f41a0d05-db19-49b3-96a0-33467abb2ffd&pbi_source=linkShare&bookmarkGuid=c4e269a1-4462-45ac-83f4-82ad3fab51e2)
+You can interact with the project [here](https://app.powerbi.com/view?r=eyJrIjoiMTI1YWM1OGItM2U5OS00M2RhLWIyNmYtYzMxZmJiMDdjOGNjIiwidCI6ImY0MWEwZDA1LWRiMTktNDliMy05NmEwLTMzNDY3YWJiMmZmZCJ9)
 
 ![](Homepage.jpg)
 Features:
